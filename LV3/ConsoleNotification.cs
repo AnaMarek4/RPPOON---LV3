@@ -24,5 +24,5 @@ namespace LV3
             this.Level = level;
             this.Color = color;
         }
-    }
+    }
 }
